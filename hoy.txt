@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello angri moji v
+=======
+hello,angry moji
+>>>>>>> master
